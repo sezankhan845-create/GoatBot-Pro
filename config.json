@@ -1,5 +1,6 @@
 {
-  "facebookAccount": {
+  "facebookAccount": {61590692514881
+    {61591845249773
     "email": "",
     "password": "",
     "2FASecret": "",
@@ -12,7 +13,7 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change language using ISO 639-1 code",
-  "nickNameBot": "XUDI OKAY?",
+  "nickNameBot": "Kutta mara bot 😻",
   "prefix": "/",
   "enableTypingIndicator": true,
   "typingDuration": 2000,
